@@ -1,5 +1,5 @@
 # Class Activity - Wave Assignment
-![alt text](https://image.shutterstock.com/image-photo/fintech-financial-technology-cryptocurrency-investment-600w-1407910778.jpg)
+![alt text](https://www.pngkit.com/png/detail/306-3060520_wave-accounting-logo.png)
 ## Question 1:
 Wave is an online accoounting platform exclusively designed for small business 
 owners, freelancers, and consultants. Wave's software provides features including
